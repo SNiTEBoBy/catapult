@@ -52,7 +52,7 @@
     "karma-sinon": "^1.0.5",
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "4.0.0-rc.6",
-    "mocha": "^5.2.0",
+    "mocha": "^11.7.5",
     "path": "^0.12.7",
     "puppeteer": "^1.10.0",
     "redux": "^4.0.0",
